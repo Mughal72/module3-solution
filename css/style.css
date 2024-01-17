@@ -2,12 +2,12 @@ body {
 	font-size: 16px;
 	color: black;
 	background-color: white;
-	font-family: sans-serif;
+	font-family: 'Lobster' sans-serif;
 }
 
 /* HEADER */
 #header-nav {
-	background-color: #999898;
+  background: linear-gradient(to right, #ce8b39, #9e8225);
 	border-radius: 0;
 	border: 0;
 	color: black;
@@ -36,6 +36,10 @@ body {
 /* Section */
 #home {
 	margin-bottom: 30px;
+	text-align: center;
+	font-family: math;
+	font-size: 40px;
+	font-weight: bold;
 }
 
 .row {
@@ -45,7 +49,7 @@ body {
 }
 
 .row > div > article {
-	background-color: #999898;
+	background: linear-gradient(to right, #a7691d, #96791b);
 	text-align: justify;
 	margin-bottom: 20px;
 	padding: 12px;
