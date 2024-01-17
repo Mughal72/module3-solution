@@ -101,3 +101,15 @@ Here is the mockup illustration of the mobile version of the site with the menu 
 
 ![Mobile - Optional (Closed)](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/images/mobile-optional-collapsed.png)
 ![Mobile - Optional (Open)](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/images/mobile-optional-expanded.png)
+
+My work Screenshot: 
+
+Fully responsive as per the requirements of Assignment 
+![image](https://github.com/Mughal72/module3-solution/assets/82819709/36fb849a-abe3-406a-8bd8-42ccde8670c0)
+
+![image](https://github.com/Mughal72/module3-solution/assets/82819709/87f80262-626d-4833-b3f8-6c0e340f983b)
+
+![image](https://github.com/Mughal72/module3-solution/assets/82819709/9857d946-bf1e-4669-9751-d135bfed330b)
+
+
+
